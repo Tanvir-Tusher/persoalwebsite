@@ -1,0 +1,94 @@
+body{
+   margin: 0;
+   font-family: 'poppins', sans-serif; 
+}
+.name-highlight{
+    color:rgb(221, 13, 100);
+   
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.half-width img{
+    padding-top: 10%;
+    width: 60%;
+}
+.top-banner{
+    background-image: url("image-1.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.second-banner{
+    background-image:url("image-2.png");
+}
+.mid-banner{
+    background-image: url("image-3.png");
+}
+.bottom-banner{
+    background-image: url("image-4.png");
+    text-align: center;
+}
+
+.first-content{
+    padding-top: 20%;
+}
+.second-content{
+    padding-top: 10%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(221, 13, 100);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.bio-area{
+    background-image: none;
+}
+.workplace{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left:4%;
+}
+.workplace img{
+    padding-top:12%;
+    width: 80%;
+}
+.work-heading{
+    text-align: center;
+}
+.client{
+    padding-bottom: 40px;
+}
+.client-area{
+    text-align: center;
+}
+.founder{
+    font-size: 10px;
+    font-weight: 500; 
+ }
+.contact{
+     background-color: rgb(221, 13, 100) ;
+     color: black;
+     border-radius: 10px;
+     padding: 10px 20px;
+     height: 100px;
+     width: 500px;
+     margin-left: 32%;   
+     
+ }
+ footer{
+     text-align: center;
+ }
+ .para{
+     text-align: center;
+ }
